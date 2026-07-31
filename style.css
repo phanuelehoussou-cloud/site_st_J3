@@ -1,3 +1,10 @@
+body {
+    background-color: #a15932;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
 .hero {
     background-color: #a15932; 
     min-height: 100vh;
@@ -26,3 +33,4 @@
     color: black;
     text-decoration: none;
 }
+
